@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.tenor.com/2dlM11dggxUAAAAC/patrick-computer.gif"  width="700" height="345">
+    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="700" height="345">
 </div>
 
 ### I'm John Ivan Magtoto an aspiring Front-End Developer.
