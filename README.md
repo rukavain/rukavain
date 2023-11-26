@@ -4,8 +4,8 @@
 
 ### I'm John Ivan Magtoto an aspiring Front-End Developer.
 
-- 🔭 I’m currently working on E-commerce and Portfolio websites.
-- 📖 I’m currently learning Reactjs and Nextjs frameworks.
+- 🔭 I’m currently working on Full-Stack and Portfolio websites.
+- 📖 I’m currently learning Reactjs and Laravel frameworks.
 - 👨‍💼 I work as a freelancer Web designer.
 
 <div align="center">
