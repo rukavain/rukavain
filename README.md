@@ -7,7 +7,7 @@
 <div align="center">
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,arduino,css,bootstrap,firebase,mysql,vscode,tailwind,js,laravel,mongodb,nextjs,nodejs,php,react,vercel,vite,vue,wordpress,visualstudio&perline=9&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,arduino,css,bootstrap,mysql,vscode,tailwind,js,laravel,nextjs,nodejs,php,react,vite,visualstudio&perline=9&theme=light)](https://skillicons.dev)
 
   <h3>Connect with Me:</h3>
   
