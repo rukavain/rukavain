@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.webp?cid=ecf05e477lqv6kradyt6ukstdnbimiga6r8m1sh9gieyprv2&ep=v1_gifs_search&rid=200w.webp&ct=g"  width="700" height="345">
-</div>
-
 ### I'm John Ivan Magtoto an aspiring Full-Stack Developer.
 
 - 🔭 I’m currently working on Full-Stack and Portfolio websites.
