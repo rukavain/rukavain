@@ -1,8 +1,8 @@
 ### I'm John Ivan Magtoto an aspiring Full-Stack Developer.
 
 - 🔭 I’m currently working on Full-Stack and Portfolio websites.
-- 📖 I’m currently learning Reactjs and Laravel frameworks.
-- 👨‍💼 I work as a freelancer Web designer.
+- 📖 I’m currently learning React.js for front-end and Laravel for back-end.
+- 👨‍💼 I work as a freelancer Web developer.
 
 <div align="center">
 <h3>Languages and Tools:</h3>
