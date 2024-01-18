@@ -2,7 +2,6 @@
 <?php
 
 namespace Ivan;
-namespace OldAccountGitHubGotSuspended;
 class About extends Me
 {
     public function getCurrentWorkplace(): array
