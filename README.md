@@ -1,8 +1,40 @@
-### I'm John Ivan Magtoto an aspiring Full-Stack Developer.
+```php
+<?php
 
-- 🔭 I’m currently working on Full-Stack and Portfolio websites.
-- 📖 I’m currently learning React.js for front-end and Laravel for back-end.
-- 👨‍💼 I work as a freelancer Web developer.
+namespace Ivan;
+namespace OldAccountGitHubGotSuspended;
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => '404',
+                'position' => 'Fullstack Developer'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            React::class,
+            TailwindCss::class,
+	    Bootstrap::class,
+	    HTML5::class,
+	    CSS3::class
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
 
 <div align="center">
 <h3>Languages and Tools:</h3>
