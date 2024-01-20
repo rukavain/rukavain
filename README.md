@@ -34,12 +34,11 @@ class About extends Me
     }
 }
 ```
-<div align="center">
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24066%26project%3D%26in%3D0)](https://codetime.dev)
-</div>
+
 
 
 <div align="center">
+	[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24066%26project%3D%26in%3D0)](https://codetime.dev)
   <h3>Connect with Me:</h3>
 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/profile.php?id=100007615364945)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/jhn.ivn/)  &nbsp; <a href="mailto:magtoto599@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
