@@ -34,7 +34,10 @@ class About extends Me
     }
 }
 ```
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24066%26project%3D%26in%3D0)](https://codetime.dev)
+<h1 class="text-center">
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24066%26project%3D%26in%3D0)](https://codetime.dev)	
+</h1>
+
 
 <div align="center">
   <h3>Connect with Me:</h3>
