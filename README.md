@@ -25,10 +25,10 @@ class About extends Me
             Javascript::class,
             Laravel::class,
             React::class,
-            TailwindCss::class,
+            TailwindCSS::class,
 	    Bootstrap::class,
-	    HTML5::class,
-	    CSS3::class
+	    HTML::class,
+	    CSS::class
         ];
     }
 
