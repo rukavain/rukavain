@@ -47,7 +47,7 @@ class About extends Me
 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/profile.php?id=100007615364945)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/jhn.ivn/)  &nbsp; <a href="mailto:magtoto599@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rukavain)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rukavain&theme=transparent&fire=skyblue&ring=skyblue&sideNums=white&currStreakNum=white&dates=white&border_radius=10)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukavain&layout=donut-vertical&theme=transparent)](https://github.com/rukavain/github-readme-stats)
 
