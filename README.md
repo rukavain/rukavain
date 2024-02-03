@@ -27,8 +27,6 @@ class About extends Me
             React::class,
             TailwindCSS::class,
 	    Bootstrap::class,
-	    HTML::class,
-	    CSS::class
         ];
     }
 
