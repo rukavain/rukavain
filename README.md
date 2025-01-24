@@ -12,8 +12,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => '404',
-                'position' => 'Fullstack Developer'         
+                'company' => 'Geo Pro Global Solutions Inc.',
+                'position' => 'Fullstack Developer Intern'         
             ]
         ];
     }
@@ -24,7 +24,8 @@ class About extends Me
             Php::class,
             Javascript::class,
             Laravel::class,
-            React::class,
+            ReactJS::class,
+            NextJS::class,
             TailwindCSS::class,
 	    Bootstrap::class,
         ];
