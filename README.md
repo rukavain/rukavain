@@ -21,13 +21,18 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
+            PHP::class,
             Javascript::class,
+	    Python::class,
+            Java::class,
             Laravel::class,
             ReactJS::class,
             NextJS::class,
             TailwindCSS::class,
 	    Bootstrap::class,
+            MySQL::class,
+	    PostgreSQL::class,
+            SQL::class,
         ];
     }
 
