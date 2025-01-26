@@ -12,7 +12,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'GeoPro Global Solutions Inc.',
+                'company' => '404',
                 'position' => 'Fullstack Developer Intern'         
             ]
         ];
