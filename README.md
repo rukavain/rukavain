@@ -53,6 +53,6 @@ class About extends Me
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=rukavain&theme=calm)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukavain&layout=donut-vertical&theme=transparent)](https://github.com/rukavain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukavain&layout=donut)](https://github.com/rukavain/github-readme-stats)
 
 </div>
