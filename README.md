@@ -9,7 +9,7 @@ namespace Ivan;
 class About extends Me
 {
     public function getCurrentWorkplace(): array
-    {
+    { 
         return [ 
             'workplace' => [
                 'company' => 'GeoPro Global Solutions Inc.',
