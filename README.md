@@ -11,7 +11,7 @@ class About extends Me
     public function getCurrentWorkplace(): array
     { 
         return [ 
-            'workplace' => [
+            'workplace' => [ 
                 'company' => 'GeoPro Global Solutions Inc.',
                 'position' => 'Fullstack Developer Intern'         
             ]
