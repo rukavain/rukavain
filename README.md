@@ -2,45 +2,37 @@
 	<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24066%26project%3D%26in=0">
 </div>
  
-```php
-<?php 
- 
-namespace Ivan;
-class About extends Me
-{ 
-    public function getCurrentWorkplace(): array
-    { 
-        return [ 
-            'workplace' => [ 
-                'company' => 'GeoPro Global Solutions Inc.',
-                'position' => 'Fullstack Developer Intern'         
-            ]
-        ];
-    }
+```python
+class About:
+    def get_current_workplace(self) -> dict:
+        return {
+            'workplace': {
+                'company': 'GeoPro Global Solutions Inc.',
+                'position': 'Fullstack Developer Intern'
+            }
+        }
 
-    public function getDailyKnowledge(): array
-    {
+    def get_daily_knowledge(self) -> list:
         return [
-            PHP::class,
-            Javascript::class,
-	    Python::class,
-            Java::class,
-            Laravel::class,
-            ReactJS::class,
-            NextJS::class,
-            TailwindCSS::class,
-	    Bootstrap::class,
-            MySQL::class,
-	    PostgreSQL::class,
-            SQL::class,
-        ];
-    }
+            'TypeScript',
+            'JavaScript',
+            'Python',
+            'Java',
+            'PHP',
+            'Laravel',
+            'ReactJS',
+            'NextJS',
+	    'Django',
+            'TailwindCSS',
+            'Bootstrap',
+            'MySQL',
+            'PostgreSQL',
+            'SQL',
+        ]
 
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-}
+    def get_future_goal(self) -> str:
+        return 'To become a well-rounded software engineer capable of solving real-world problems.'
+
 ```
 
 
