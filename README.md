@@ -55,6 +55,6 @@ class About extends Me
 
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukavain)](https://github.com/rukavain/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukavain&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukavain&layout=compact)
 
 </div>
