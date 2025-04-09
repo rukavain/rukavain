@@ -40,13 +40,17 @@ class About:
 <div align="center">
 	
   <h3>Connect with Me:</h3>
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/profile.php?id=100007615364945)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/jhn.ivn/)  &nbsp; <a href="mailto:magtoto599@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
+<div>
 
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/profile.php?id=100007615364945)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/jhn.ivn/)  &nbsp; <a href="mailto:magtoto599@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=rukavain&theme=calm)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=rukavain&theme=calm)](https://git.io/streak-stats)
 
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukavain)](https://github.com/rukavain/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukavain&layout=compact)
+</div>
+
+  
+
 
 </div>
