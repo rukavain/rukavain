@@ -6,7 +6,7 @@
 class About:
     def get_current_workplace(self) -> dict:
         return { 
-            'workplace': {
+            'workplace': { 
                 'company': 'GeoPro Global Solutions Inc.',
                 'position': 'Fullstack Developer Intern'
             }
