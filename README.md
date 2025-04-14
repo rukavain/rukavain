@@ -11,7 +11,7 @@ class About:
                 'position': 'Fullstack Developer Intern'
             } 
         }
-
+ 
     def get_daily_knowledge(self) -> list:
         return [
             'TypeScript',
