@@ -12,7 +12,7 @@ class About:
             } 
         }
  
-    def get_daily_knowledge(self) -> list:
+    def get_daily_knowledge(self) -> list: 
         return [
             'TypeScript',
             'JavaScript',
