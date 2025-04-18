@@ -8,7 +8,7 @@ class About:
         return { 
             'workplace': { 
                 'company': 'GeoPro Global Solutions Inc.',
-                'position': 'Fullstack Developer Intern' 
+                'position': 'Fullstack Developer Intern'  
             }  
         } 
  
