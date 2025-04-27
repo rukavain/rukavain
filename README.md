@@ -3,7 +3,7 @@
 </div>
  
 ```python 
-class About:
+class About: 
     def get_current_workplace(self) -> dict:
         return { 
             'workplace': { 
