@@ -9,7 +9,7 @@ class About:
             'workplace': { 
                 'company': 'GeoPro Global Solutions Inc.',
                 'position': 'Fullstack Developer Intern'  
-            }  
+            }   
         } 
    
     def get_daily_knowledge(self) -> list:  
