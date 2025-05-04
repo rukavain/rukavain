@@ -3,7 +3,12 @@
 	
 </div>
 
-![Visitors](https://komarev.com/ghpvc/?username=rukavain&color=green&style=flat-square&label=Profile%20Views)
+<div align="center">    
+
+ ![Visitors](https://komarev.com/ghpvc/?username=rukavain&color=green&style=flat-square&label=Profile%20Views)
+	
+</div>
+
  
 ```python 
 class About: 
